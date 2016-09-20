@@ -1,6 +1,10 @@
 {
   "name": "webpack-optimizejs-plugin",
+<<<<<<< HEAD
   "version": "0.0.2",
+=======
+  "version": "0.0.1",
+>>>>>>> master
   "description": "Webpack plugin for optimizejs",
   "main": "index.js",
   "scripts": {
@@ -14,7 +18,11 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.16.0",
+<<<<<<< HEAD
     "optimize-js": "^1.0.1",
     "webpack-sources": "^0.1.2"
+=======
+    "optimize-js": "^1.0.1"
+>>>>>>> master
   }
 }
