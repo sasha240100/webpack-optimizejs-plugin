@@ -1,0 +1,19 @@
+{
+  "name": "webpack-optimizejs-plugin",
+  "version": "0.0.1",
+  "description": "Webpack plugin for optimizejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "optimizejs"
+  ],
+  "author": "Alexander Buzin",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.16.0",
+    "optimize-js": "^1.0.1"
+  }
+}
